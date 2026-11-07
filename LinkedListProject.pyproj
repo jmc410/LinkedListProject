@@ -12,6 +12,7 @@
     <OutputPath>.</OutputPath>
     <Name>LinkedListProject</Name>
     <RootNamespace>LinkedListProject</RootNamespace>
+    <TestFramework>unittest</TestFramework>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
